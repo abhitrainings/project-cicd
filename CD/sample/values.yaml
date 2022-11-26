@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: samba1112/cicd-project
+  repository: abhitrainings888/project-cicd
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 15
