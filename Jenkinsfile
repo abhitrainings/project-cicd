@@ -53,7 +53,7 @@ pipeline {
                 git config user.name "abhitrainings888"
                 git add .
                 git commit -m "Changed image tag"
-                git push https://ghp_LE529LbIPQ50TXJPyt7thzQa4ojLMV1STfJ@github.com/samba1112/CICD.git main
+                git push https://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@github.com/abhitrainings/project-cicd.git main
                 """
             }
             }
